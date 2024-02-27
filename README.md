@@ -12,7 +12,7 @@ Triple negative breast cancer (TNBC) is the most aggressive breast cancer subtyp
 
 
 ## ACCESS THE DATA
-Example images can be accessed through Harvard tissue Atlas website ([https://www.tissue-atlas.org/atlas-datasets/guerriero-lin-santagata-2023/](https://www.tissue-atlas.org/atlas-datasets/cichowski-santagata-sorger-2024/)). Cell count tables have been released via Github ([https://www.tissue-atlas.org/atlas-datasets/cichowski-santagata-sorger-2024/](https://github.com/labsyspharm/cichowski-santagata-sorger-2024/)).
+Example images can be accessed through Harvard tissue Atlas website (https://www.tissue-atlas.org/atlas-datasets/cichowski-santagata-sorger-2024/). Cell count tables have been released via Github (https://github.com/labsyspharm/cichowski-santagata-sorger-2024/).
 Additional imagesa and data will be provide upon request.
 <br>
 
